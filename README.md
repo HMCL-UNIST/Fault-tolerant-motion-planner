@@ -2,8 +2,7 @@
 A fault tolerant motion planner for the quadrotor subject to a complete rotor loss and rotor saturation constraints.
 
 ### Directory Stucture
-Fault-Tolerant-Motion-Planner/
-
+    Fault-Tolerant-Motion-Planner/
     │
 
     ├── Documents/
