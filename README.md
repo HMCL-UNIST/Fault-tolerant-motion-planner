@@ -3,16 +3,27 @@ A fault tolerant motion planner for the quadrotor subject to a complete rotor lo
 
 ### Directory Stucture
 Fault-Tolerant-Motion-Planner/
-│
-├── Documents/
-│   ├── Full_Manuscript_With_Appendices.pdf   # Full documentation including appendices
-│   └── Appendices_Only.pdf                   # Appendices section only
-│
-└── Code/
-    ├── Scene1/    # Code for scenario 1
-    ├── Scene2/    # Code for scenario 2
-    ├── Scene3/    # Code for scenario 3
-    └── FTMP_Simulation_Results.m # Main file
+
+    │
+
+    ├── Documents/
+    
+    │   ├── Full_Manuscript_With_Appendices.pdf   # Full documentation including appendices
+
+    │   └── Appendices_Only.pdf                   # Appendices section only
+
+    │
+
+    └── Code/
+
+        ├── Scene1/    # Code for scenario 1
+    
+        ├── Scene2/    # Code for scenario 2
+    
+        ├── Scene3/    # Code for scenario 3
+    
+        └── FTMP_Simulation_Results.m # Main file
+    
    
 ### Dependencies
 This project requires the following software:
