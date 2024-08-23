@@ -33,7 +33,7 @@ Ensure you have the correct versions installed to avoid compatibility issues.
 ### Usage
 To run the simulations:
 1. Clone the repository:
-  git clone https://github.com/YourUsername/Fault-Tolerant-Motion-Planner.git
+  git clone https://github.com/HMCL-UNIST/Fault-Tolerant-Motion-Planner.git
   cd Fault-Tolerant-Motion-Planner/Code
 
 3. Run the Matlab code:
