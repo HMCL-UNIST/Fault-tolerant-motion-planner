@@ -1,6 +1,9 @@
 # Fault-tolerant-motion-planner
 A fault tolerant motion planner for the quadrotor subject to a complete rotor loss and rotor saturation constraints.
 
+### Paper
+Y. Nam, K. Lee, H. Shin, and C. Kwon “Fault tolerant motion planning for a quadrotor subject to complete rotor failure,” Aerospace Science and Technology, Vol. 154, Page 109529, November 2024 [(Link)](https://www.sciencedirect.com/science/article/pii/S127096382400659X)
+
 ### Directory Stucture
     Fault-Tolerant-Motion-Planner/
     │
